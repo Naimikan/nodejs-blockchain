@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-blockchain",
+  "version": "1.0.0",
+  "description": "NodeJS Blockchain",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naimikan/nodejs-blockchain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "crypto"
+  ],
+  "author": "Guillem Aldeguer Lima <guillem.aldeguer@gmail.com> (https://naimikan.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naimikan/nodejs-blockchain/issues"
+  },
+  "homepage": "https://github.com/Naimikan/nodejs-blockchain#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
